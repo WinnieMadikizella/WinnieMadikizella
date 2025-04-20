@@ -18,6 +18,7 @@ My approach combines:
 
 Whether you're building a dashboard, cleaning raw data, or automating reports, I combine technical precision with empathy for the end-user. I ensure that every solution is functional and truly supports decision-making and ease of use. I believe that data solutions should not only be technically sound but also user-friendly, ensuring that the insights are accessible and actionable for everyone involved.
 
+
 ## 💡 What I Bring to the Table
 I provide end-to-end data solutions that empower both companies and individuals to make smarter, data-driven decisions. Whether you're looking to optimize workflows, design intuitive dashboards, or automate reporting, I specialize in:
 - Creating Power BI dashboards, SQL data models, and data pipelines to transform data into valuable insights
@@ -30,9 +31,9 @@ I provide end-to-end data solutions that empower both companies and individuals 
 - 📊 Increased Power BI dashboard adoption by **20%**  
 - 🌍 Supported SRH programs reaching **5,000+ people** annually  
 - 🧩 Integrated SQL-based insights across **3 customer segments**
+  
 
 ## 🧰 My Toolkit
-
 **BI & Data Analysis** - `Power BI | Tableau | SQL (MySQL, PostgreSQL, Microsoft SQL Server)`
 
 **Reporting & Automation** - `Excel (VBA, Pivot Tables, Power Query, Charts, Power Pivot) | Microsoft Office Suite | Google Workspace | Canva`
@@ -42,6 +43,7 @@ I provide end-to-end data solutions that empower both companies and individuals 
 **Cloud & Infrastructure** - `AWS (EC2, S3, Lambda, RDS)`
 
 **Soft Skills & Workflow** – `Agile | Remote Collaboration | Data Storytelling | Communication & Public Speaking | Leadership & Team Collaboration | Problem-Solving & Decision-Making | Critical Thinking | Adaptability & Resilience | Project Management | Time Management | Cultural Competency | Attention to Detail | Empathy & Emotional Intelligence`
+
 
 ## 📌 Projects & Case Studies
 👉 Check my repositories for detailed walk-throughs and code samples. Explore the following categories:
@@ -70,6 +72,7 @@ I provide end-to-end data solutions that empower both companies and individuals 
  
 > “She’s the bridge between the data team and decision-makers.”  
 
+
 ## 🤝 Let’s Collaborate
 
 📊 **Available for**:
@@ -78,10 +81,12 @@ I provide end-to-end data solutions that empower both companies and individuals 
 - Freelance dashboard/reporting projects  
 - Mentorship or training in Power BI, Excel, SQL  
 
+
 ## 📬 Get in Touch
 - 💼 LinkedIn: https://www.linkedin.com/in/winnie-madikizella/   
 - 📧 Email: madikizellawinnie@gmail.com 
 - 🌐 Portfolio: https://winniemadikizella.github.io/ 
+
 
 > Let’s work together to unlock the power of your data.  
 > _Empowering better decisions—one dataset at a time._
