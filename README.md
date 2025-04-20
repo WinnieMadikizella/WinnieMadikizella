@@ -1,11 +1,16 @@
 # 👋 Hi, I’m Winnie Madikizella Akinyi  
+
 **Data Analyst | BI Consultant | Freelance Data Professional**  
+
 *Turning complex data into actionable insights*
 
 ## 💼 About Me  
 I help organizations unlock the power of their data—whether you need a strategic **BI consultant**, a sharp **data analyst**, or a reliable **freelance partner** for your next data project.
+
 **Mission**: To empower organizations and individuals by transforming complex data into actionable insights, fostering smarter, more strategic decisions.
+
 **Vision**: To enable impact-driven organizations and individuals to leverage data to drive growth, efficiency, and clarity.
+
 My approach combines:
 - **Strong technical expertise** (Power BI, SQL, Excel, AWS)
 - **A consultative mindset** (understanding business needs)
@@ -42,7 +47,8 @@ I provide end-to-end data solutions that empower both companies and individuals 
 👉 Check my repositories for detailed walk-throughs and code samples.
 
 ## 🗣 Feedback from Teams & Clients
-> “Winnie doesn’t just deliver dashboards—she delivers clarity.”  
+> “Winnie doesn’t just deliver dashboards—she delivers clarity.”
+ 
 > “She’s the bridge between the data team and decision-makers.”  
 
 ## 🤝 Let’s Collaborate
@@ -54,7 +60,6 @@ I provide end-to-end data solutions that empower both companies and individuals 
 - Mentorship or training in Power BI, Excel, SQL  
 
 ## 📬 Get in Touch
-
 - 💼 LinkedIn: https://www.linkedin.com/in/winnie-madikizella/   
 - 📧 Email: madikizellawinnie@gmail.com 
 - 🌐 Portfolio: https://winniemadikizella.github.io/ 
