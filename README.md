@@ -34,37 +34,55 @@ I provide end-to-end data solutions that empower both companies and individuals 
   
 
 ## 🧰 My Toolkit
-**BI & Data Analysis** - `Power BI | Tableau | SQL (MySQL, PostgreSQL, Microsoft SQL Server)`
+### BI & Data Analysis  
+- **Power BI**  
+- **Tableau**  
+- **SQL**: MySQL | PostgreSQL | Microsoft SQL Server  
 
-**Reporting & Automation** - `Excel (VBA, Pivot Tables, Power Query, Charts, Power Pivot) | Microsoft Office Suite | Google Workspace | Canva`
+### Reporting & Automation  
+- **Excel**: VBA, Pivot Tables, Power Query, Charts, Power Pivot  
+- **Power Query & Power Pivot**  
+- **Microsoft Office Suite**  
+- **Google Workspace**  
+- **Canva**
 
-**Programming & Modeling** - `Python (pandas, NumPy) | Statistical Analysis`
+### Programming & Modeling  
+- **Python**: pandas, NumPy  
+- **Statistical Analysis**
 
-**Cloud & Infrastructure** - `AWS (EC2, S3, Lambda, RDS)`
+### Cloud & Infrastructure  
+- **AWS**: EC2, S3, Lambda, RDS  
 
-**Soft Skills & Workflow** – `Agile | Remote Collaboration | Data Storytelling | Communication & Public Speaking | Leadership & Team Collaboration | Problem-Solving & Decision-Making | Critical Thinking | Adaptability & Resilience | Project Management | Time Management | Cultural Competency | Attention to Detail | Empathy & Emotional Intelligence`
+### Soft Skills & Workflow  
+- **Methodologies**: Agile | Remote Collaboration  
+- **Storytelling & Communication**: Data Storytelling | Public Speaking | Communication  
+- **Team & Leadership**: Leadership | Team Collaboration  
+- **Problem Solving**: Decision-Making | Critical Thinking  
+- **Personal Attributes**: Adaptability | Resilience | Attention to Detail | Time Management  
+- **Project Management**: Planning | Execution | Monitoring  
+- **Cultural & Emotional Intelligence**: Cultural Competency | Empathy | Emotional Intelligence  
 
 
 ## 📌 Projects & Case Studies
 👉 Check my repositories for detailed walk-throughs and code samples. Explore the following categories:
 
-•	https://github.com/WinnieMadikizella/SQL-Projects: 
-   Data cleaning, modeling, and exploratory analysis using SQL queries and databases.
-
-•	[Power BI Reports](https://github.com/WinnieMadikizella/Power-BI-Reports): 
-   Interactive dashboards built for business insights and decision support.
-
-•	[Excel Projects](https://github.com/WinnieMadikizella/Excel-Projects): 
-   Data transformation and visualization using Power Query and Power Pivot.
-
-•	[Excel + SQL + Power BI Projects](https://github.com/WinnieMadikizella/Excel-SQL-Power-BI-Projects): 
-   Full data workflows combining SQL data preparation and Power BI reporting.
-
-•	[Tableau Projects](https://github.com/WinnieMadikizella/Tableau-Projects): 
-   In this repository, you will find all projects completed in Tableau.
-
-•	[Forage Job Simulation Projects](https://github.com/WinnieMadikizella/Forage-Job-Simulation-Projects):
-   In this repository, job simulation projects I completed via Forage.
+  •	https://github.com/WinnieMadikizella/SQL-Projects: 
+     Data cleaning, modeling, and exploratory analysis using SQL queries and databases.
+  
+  •	[Power BI Reports](https://github.com/WinnieMadikizella/Power-BI-Reports): 
+     Interactive dashboards built for business insights and decision support.
+  
+  •	[Excel Projects](https://github.com/WinnieMadikizella/Excel-Projects): 
+     Data transformation and visualization using Power Query and Power Pivot.
+  
+  •	[Excel + SQL + Power BI Projects](https://github.com/WinnieMadikizella/Excel-SQL-Power-BI-Projects): 
+     Full data workflows combining SQL data preparation and Power BI reporting.
+  
+  •	[Tableau Projects](https://github.com/WinnieMadikizella/Tableau-Projects): 
+     In this repository, you will find all projects completed in Tableau.
+  
+  •	[Forage Job Simulation Projects](https://github.com/WinnieMadikizella/Forage-Job-Simulation-Projects):
+     In this repository, job simulation projects I completed via Forage.
 
 
 ## 🗣 Feedback from Teams & Clients
