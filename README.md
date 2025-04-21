@@ -66,7 +66,7 @@ I provide end-to-end data solutions that empower both companies and individuals 
 ## 📌 Projects & Case Studies
 👉 Check my repositories for detailed walk-throughs and code samples. Explore the following categories:
 
-  •	https://github.com/WinnieMadikizella/SQL-Projects: 
+  •	[SQL Projects](https://github.com/WinnieMadikizella/SQL-Projects): 
      Data cleaning, modeling, and exploratory analysis using SQL queries and databases.
   
   •	[Power BI Reports](https://github.com/WinnieMadikizella/Power-BI-Reports): 
