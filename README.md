@@ -74,6 +74,9 @@ I provide end-to-end data solutions that empower both companies and individuals 
   
   •	[Excel Projects](https://github.com/WinnieMadikizella/Excel-Projects): 
      Data transformation and visualization using Power Query and Power Pivot.
+
+  • [Forage Job Simulation Projects](https://github.com/WinnieMadikizella/Forage-Job-Simulation-Projects): 
+      In this repository, I completed job simulation projects via Forage.
   
 
 ## 🗣 Feedback from Teams & Clients
