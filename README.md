@@ -5,18 +5,18 @@
 *Turning complex data into actionable insights*
 
 ## 💼 About Me  
-I help organizations unlock the power of their data—whether you need a strategic **BI consultant**, a sharp **data analyst**, or a reliable **freelance partner** for your next data project.
+I help organizations, businesses and individuals unlock the power of their data—whether you need a strategic **BI consultant**, a sharp **data analyst**, or a reliable **freelance partner** for your next data project.
 
-**Mission**: To empower organizations and individuals by transforming complex data into actionable insights, fostering smarter, more strategic decisions.
+**Mission**: To empower organizations,  businesses and individuals by transforming complex data into actionable insights, fostering smarter, more strategic decisions.
 
-**Vision**: To enable impact-driven organizations and individuals to leverage data to drive growth, efficiency, and clarity.
+**Vision**: To enable impact-driven organizations, businesses and individuals to leverage data to drive growth, efficiency, and clarity.
 
 My approach combines:
 - **Strong technical expertise** (Power BI, SQL, Excel, AWS)
 - **A consultative mindset** (understanding business needs)
 - **Clear communication** (translating insights into meaningful actions)
 
-Whether you're building a dashboard, cleaning raw data, or automating reports, I combine technical precision with empathy for the end-user. I ensure that every solution is functional and truly supports decision-making and ease of use. I believe that data solutions should not only be technically sound but also user-friendly, ensuring that the insights are accessible and actionable for everyone involved.
+Whether you're building a dashboard, cleaning raw data, or automating reports, I combine technical precision with empathy for the end-user. I ensure that every solution is functional and truly supports decision-making and ease of use. I believe that data solutions should be technically sound and user-friendly, ensuring that the insights are accessible and actionable for everyone involved.
 
 
 ## 💡 What I Bring to the Table
