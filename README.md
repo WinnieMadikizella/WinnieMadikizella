@@ -68,7 +68,7 @@ Check my repositories for detailed walk-throughs and code samples.
 ## Get in Touch
 - 📧 Email me: madikizellawinnie@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/winnie-madikizella-data/ 
-- 🌐 Portfolio:   
+- 🌐 Portfolio: https://winniemadikizella.github.io/ 
 
 
 > Let’s transform your data into decisions.  
