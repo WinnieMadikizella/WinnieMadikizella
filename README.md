@@ -26,12 +26,12 @@ I provide end-to-end data solutions that empower both companies and individuals 
 - Delivering freelance projects with fast, reliable turnarounds for NGOs, startups, and growth-stage companies, as well as individual clients
 
 ## Key Wins:
-✅ Improved SRHR service delivery by 20% via Power BI dashboards 
-✅ Reduced manual work by 80% using Excel VBA + Power Automate 
-✅ Co-facilitated AI in M&E training for 40+ stakeholders across 12 countries 
-✅ Built pricing models that increased projected revenue by 10% 
-✅ Trained 25+ youth in data literacy and digital safety
-✅ Led participatory research reaching 800+ youth and caregivers in Kisumu and Siaya counties in Kenya to improve SRHR services
+- ✅ Improved SRHR service delivery by 20% via Power BI dashboards
+- ✅ Reduced manual work by 80% using Excel VBA + Power Automate
+- ✅ Co-facilitated AI in M&E training for 40+ stakeholders across 12 countries
+- ✅ Built pricing models that increased projected revenue by 10%
+- ✅ Trained 25+ youth in data literacy and digital safety
+- ✅ Led participatory research reaching 800+ youth and caregivers in Kisumu and Siaya counties in Kenya to improve SRHR services
   
 ## My Toolkit
 ### BI & Data Analysis  
