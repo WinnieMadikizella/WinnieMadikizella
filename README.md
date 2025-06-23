@@ -66,9 +66,9 @@ Check my repositories for detailed walk-throughs and code samples.
 - Mentorship & training in Excel, Power BI, and SQL
  
 ## Get in Touch
-- 📧 [Email me](mailto:madikizellawinnie@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/winnie-madikizella-data/)
-- 🌐 [Portfolio](https://winniemadikizella.github.io/)  
+- 📧 Email me: madikizellawinnie@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/winnie-madikizella-data/ 
+- 🌐 Portfolio:   
 
 
 > Let’s transform your data into decisions.  
