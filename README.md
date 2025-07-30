@@ -26,14 +26,6 @@ I provide end-to-end data solutions that empower both companies and individuals 
 - Offering BI consulting that aligns technical solutions with strategic goals and KPIs
 - Delivering freelance projects with fast, reliable turnarounds for NGOs, startups, and growth-stage companies, as well as individual clients
 
-## Key Wins:
-✅ Improved SRHR service delivery by 20% via Power BI dashboards
-✅ Reduced manual work by 80% using Excel VBA + Power Automate
-✅ Co-facilitated AI in M&E training for 40+ stakeholders across 12 countries
-✅ Built pricing models that increased projected revenue by 10%
-✅ Trained 25+ youth in data literacy and digital safety
-✅ Led participatory research reaching 800+ youth and caregivers in Kisumu and Siaya counties in Kenya to improve SRHR services
-  
 ### My Toolkit
 **Data & BI Tools**  
 Power BI, Tableau, Excel (VBA, Power Query, Power Pivot), SQL (PostgreSQL, MySQL, SQL Server), Power Automate, Power Apps
@@ -52,11 +44,6 @@ Agile Workflow, Communication, Leadership, Data Storytelling, Empathy, Remote Te
 
 ## Projects & Case Studies
 Check my repositories for detailed walk-throughs and code samples. 
-
-## Feedback from Teams & Clients
-> “Winnie doesn’t just deliver dashboards—she delivers clarity.”
- 
-> “She’s the bridge between the data team and decision-makers.”  
 
 ## Let’s Collaborate
 **I'm open to:**
