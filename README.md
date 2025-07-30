@@ -1,62 +1,35 @@
-# 👋 Hi, I’m Winnie Madikizella Akinyi  
+# 👋 Hi there, I’m Winnie Madikizella
 
-### **Data Analyst | BI Consultant | Freelance Data Professional**  
+I'm a **Data Analyst & Business Intelligence Specialist** who turns messy, scattered data into automated, actionable insights, driving smarter decisions for nonprofits, startups, and e-commerce teams.
 
-*Turning complex data into actionable insights*
+**What I Do Best**
+- Build **interactive BI dashboards** in Power BI & Looker Studio
+- Automate reporting workflows using **Excel (VBA, Power Query)** and **Power Automate**
+- Design **SQL-based data pipelines** and ETL processes
+- Support **donor, NGO, and business teams** with scalable, decision-ready reporting systems
 
-Welcome to my GitHub! I’m passionate about building data solutions that are technically robust and human-centered.
+**Recent Wins**
+- ✅ Automated 75% of donor reporting for a pan-African health program  
+- ✅ Improved pricing accuracy to 98%+ across 15+ U.S. metro zones  
+- ✅ Cut manual reporting time by 80% using Excel VBA + Power Automate  
+- ✅ Pinpointed campaign & pricing issues, helping reverse a regional sales drop
 
-## About Me  
-I help organizations, businesses and individuals unlock the power of their data—whether you need a strategic **BI consultant**, a sharp **data analyst**, or a reliable **freelance partner** for your next data project.
+**Expanding my capabilities in:**
+- **AWS Cloud Architecture** (re/Start certified)
+- **Software Engineering Principles for Scalable Analytics**
+- **Microsoft Power Platform** (Power Automate, Power Apps)
 
-**Mission**: To empower impact-driven organizations and individuals by transforming complex data into actionable insights.
+**Tech Stack**
+Power BI • Excel (VBA, Power Query) • SQL • AWS • Power Automate • Python • Tableau • KoBo Toolbox • ODK • SharePoint • Prompt Engineering
 
-**Vision**: To help clients use data to drive growth, efficiency, and clarity.
+🌍 Based in **UTC+3** | Remote-ready across **EST, CST, PST**  
+💬 **Let’s connect** if you need a BI expert who blends technical skill with strategic clarity—for reporting systems, automation, or impact analytics.
 
-My approach combines:
-- **Strong technical expertise** (Power BI, SQL, Excel, AWS)
-- **A consultative mindset** (understanding business needs)
-- **Clear communication** (translating insights into meaningful actions)
+📧 **Email:** madikizellawinnie@gmail.com  
+🔗 **LinkedIn:** [winnie-madikizella-data](https://www.linkedin.com/in/winnie-madikizella-data/)  
+🌐 **Portfolio:** [winniemadikizella.github.io](https://winniemadikizella.github.io/)  
 
-Whether you're building a dashboard, cleaning raw data, or automating reports, I combine technical precision with empathy for the end-user. I ensure every solution is both functional and user-friendly, supporting clear decision-making, ensuring that the insights are accessible and actionable for everyone involved.
+---
 
-## My Value Proposition
-I provide end-to-end data solutions that empower both companies and individuals to make smarter, data-driven decisions. Whether you're looking to optimize workflows, design intuitive dashboards, or automate reporting, I specialize in:
-- Creating interactive, dynamic dashboards, SQL data models, and data pipelines to transform data into valuable insights
-- Offering BI consulting that aligns technical solutions with strategic goals and KPIs
-- Delivering freelance projects with fast, reliable turnarounds for NGOs, startups, and growth-stage companies, as well as individual clients
-
-### My Toolkit
-**Data & BI Tools**  
-Power BI, Tableau, Excel (VBA, Power Query, Power Pivot), SQL (PostgreSQL, MySQL, SQL Server), Power Automate, Power Apps
-
-**Automation & Reporting**  
-Power Query, Power Automate, Zapier, Excel VBA, Report Scheduling, Data Validation
-
-**Programming & Analysis**  
-Python (pandas, NumPy), SPSS, Statistical Analysis
-
-**Cloud & Infrastructure**  
-AWS (RDS, S3, Lambda, EC2), Google Sheets, ODK
-
-**Soft Skills & Collaboration**  
-Agile Workflow, Communication, Leadership, Data Storytelling, Empathy, Remote Teaming, Project Management
-
-## Projects & Case Studies
-Check my repositories for detailed walk-throughs and code samples. 
-
-## Let’s Collaborate
-**I'm open to:**
-- Full-time/contract data roles  
-- BI consulting engagements  
-- Freelance dashboard/reporting work  
-- Mentorship & training in Excel, Power BI, and SQL
- 
-## Get in Touch
-- 📧 Email me: madikizellawinnie@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/winnie-madikizella-data/ 
-- 🌐 Portfolio: https://winniemadikizella.github.io/ 
-
-
-> Let’s transform your data into decisions.  
-> _Empowering better decisions—one dataset at a time._
+**Let’s transform your data into decisions.**  
+*Empowering better decisions—one dataset at a time.*
