@@ -9,10 +9,10 @@ I'm a **Data Analyst & Business Intelligence Specialist** who turns messy, scatt
 - Support **donor, NGO, and business teams** with scalable, decision-ready reporting systems
 
 **Recent Wins**
-- ✅ Automated 75% of donor reporting for a pan-African health program  
-- ✅ Improved pricing accuracy to 98%+ across 15+ U.S. metro zones  
-- ✅ Cut manual reporting time by 80% using Excel VBA + Power Automate  
-- ✅ Pinpointed campaign & pricing issues, helping reverse a regional sales drop
+- Automated 75% of donor reporting for a pan-African health program  
+- Improved pricing accuracy to 98%+ across 15+ U.S. metro zones  
+- Cut manual reporting time by 80% using Excel VBA + Power Automate  
+- Pinpointed campaign & pricing issues, helping reverse a regional sales drop
 
 **Expanding my capabilities in:**
 - **AWS Cloud Architecture** (re/Start certified)
@@ -27,7 +27,7 @@ Power BI • Excel (VBA, Power Query) • SQL • AWS • Power Automate • Pyt
 
 📧 **Email:** madikizellawinnie@gmail.com  
 🔗 **LinkedIn:** [winnie-madikizella-data](https://www.linkedin.com/in/winnie-madikizella-data/)  
-🌐 **Portfolio:** [winniemadikizella.github.io](https://winniemadikizella.github.io/)  
+🌐 **Portfolio:** [winniemadikizella.github.io](https://winniemadikizella.github.io/winnie_madikizella_portfolio-website/)  
 
 ---
 
