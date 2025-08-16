@@ -39,7 +39,7 @@ Turning complex data into actionable insights for strategic growth.
 I specialize in transforming raw data into actionable insights using Python, SQL, Excel automation, Power BI, Tableau, and cloud analytics.  
 I help organizations streamline workflows, automate repetitive tasks, and make data-driven decisions that drive real impact.  
 
-- Over 5 years of experience in **data analysis, business intelligence, automation, and reporting**  
+- Over 3 years of experience in **data analysis, business intelligence, automation, and reporting**  
 - Passionate about using analytics to empower **impact-driven and underserved organizations**  
 - Skilled at **bridging the gap between raw data and strategic decision-making**  
 
