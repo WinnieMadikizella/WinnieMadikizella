@@ -77,7 +77,7 @@ _Data & Business Intelligence Specialist_
 
 - [LinkedIn](https://www.linkedin.com/in/winnie-madikizella-data/)  
 - [Email](mailto:madikizellawinnie@gmail.com)  
-- [Portfolio Website](https://winniemadikizella.github.io/winnie_madikizella_portfolio-website/)
+- [Portfolio Website](https://winniemadikizella.github.io/)
   
 ---
 
