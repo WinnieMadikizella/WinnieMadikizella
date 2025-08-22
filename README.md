@@ -64,6 +64,30 @@ Power BI, Tableau, Jupyter Notebook, AWS, HTML, CSS, VS Code
 
 ---
 
+---
+
+## Sample Projects
+
+1. [LAPD Crime Statistics Dashboard](https://github.com/WinnieMadikizella/LAPD-Crime-Statistics-Automated_Dashboard)  
+Interactive dashboard analyzing LAPD crime data to identify trends and support strategic interventions.
+
+2. [Restaurant Operations Analysis — SQL](https://github.com/WinnieMadikizella/Restaurant-Operations-Analysis-SQL)  
+SQL-based analysis of restaurant operations to optimize performance and decision-making.
+
+3. [Automated Crypto Web Scraper](https://github.com/WinnieMadikizella/crypto-web-scraper)  
+Python scraper for tracking cryptocurrency prices in real-time and automating alerts.
+
+4. [Movie Genres Data Analysis Project — Python](https://github.com/WinnieMadikizella/movies-genre-analysis)  
+Analyzing movie genre data using Python to identify trends and viewer preferences.
+
+5. [HR Data Analytics Dashboard — Power BI](https://github.com/WinnieMadikizella/HR-Analytics-Dashboard)  
+Power BI dashboard visualizing HR data to track employee performance and organizational trends.
+
+6. [Call Center Performance Dashboard — Tableau](https://github.com/WinnieMadikizella/Call-Center-KPI-Dashboard)  
+Tableau dashboard measuring call center KPIs and operational efficiency.
+
+---
+
 ## 🌱 Currently Learning
 - Advanced **ETL & Automation** pipelines  
 - AI integration for **data analytics workflows**  
