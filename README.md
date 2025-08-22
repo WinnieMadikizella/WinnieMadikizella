@@ -64,8 +64,6 @@ Power BI, Tableau, Jupyter Notebook, AWS, HTML, CSS, VS Code
 
 ---
 
----
-
 ## Sample Projects
 
 1. [LAPD Crime Statistics Dashboard](https://github.com/WinnieMadikizella/LAPD-Crime-Statistics-Automated_Dashboard) - Interactive dashboard analyzing LAPD crime data to identify trends and support strategic interventions.
